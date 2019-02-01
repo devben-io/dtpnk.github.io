@@ -1,6 +1,6 @@
 # Site settings
 name: /dev/ben
-description: "$ mount /dev/ben /your/project/"
+description: "$ mount /dev/ben /your/awesome/project/"
 url: "https://test.abc"
 
 
